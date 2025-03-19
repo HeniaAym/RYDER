@@ -6775,7 +6775,29 @@ html {
     .paragraph-bigger-2.cc-bigger-white-light-2 {
       text-align: right;
     }
-  
+    .locate-btn, .confirm-btn,.my-location-btn{
+      background-color: #000000;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      display: block;
+      margin: 10px  auto;
+      font-weight: bold;
+      font-family: ce;
+      font-family: Cairo, sans-serif;
+  }
+  .booking-form {
+    display: none;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 20px auto;
+    font-family: Cairo, sans-serif;
+  }
     .label {
       font-size: 16px;
       font-weight: 300;
@@ -6942,7 +6964,29 @@ html {
   img.menu-icon {}
   
   img.menu-icon {}
-  
+  .locate-btn, .confirm-btn,.my-location-btn{
+    background-color: #000000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 10px  auto;
+    font-weight: bold;
+    font-family: ce;
+    font-family: Cairo, sans-serif;
+}
+.booking-form {
+  display: none;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  margin: 20px auto;
+  font-family: Cairo, sans-serif;
+}
     .menu {
       margin-left: 60px;
       position: static;
@@ -7547,7 +7591,29 @@ html {
     .section.cc-cta {
       padding: 15px;
     }
-  
+    .locate-btn, .confirm-btn,.my-location-btn{
+      background-color: #000000;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      display: block;
+      margin: 10px  auto;
+      font-weight: bold;
+      font-family: ce;
+      font-family: Cairo, sans-serif;
+  }
+  .booking-form {
+    display: none;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 20px auto;
+    font-family: Cairo, sans-serif;
+  }
     .section.cc-home-wrap, .section.cc-store-home-wrap {
       margin-left: 15px;
       margin-right: 15px;
@@ -8337,7 +8403,29 @@ html {
       font-size: 36px;
       line-height: 52px;
     }
-
+    .locate-btn, .confirm-btn,.my-location-btn{
+      background-color: #000000;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      display: block;
+      margin: 10px  auto;
+      font-weight: bold;
+      font-family: ce;
+      font-family: Cairo, sans-serif;
+  }
+  .booking-form {
+    display: none;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 20px auto;
+    font-family: Cairo, sans-serif;
+  }
     .paragraph-bigger-2.cc-bigger-white-light-2 {
       font-size: 12px;
       font-weight: 600;
