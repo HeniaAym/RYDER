@@ -6775,7 +6775,7 @@ html {
     .paragraph-bigger-2.cc-bigger-white-light-2 {
       text-align: right;
     }
-  
+
     .label {
       font-size: 16px;
       font-weight: 300;
@@ -6870,7 +6870,15 @@ html {
   
     .navigation-item-copy.w--current {
       color: var(--brand-color);
+
     }
+    .paragraph-bigger-2-copy.cc-bigger-white-light-2-copy {
+      opacity: .9;
+      text-align: center;
+      margin-bottom: 30px;
+      font-family: Cairo, sans-serif;
+      font-weight: 400;
+  }
   }
   
   @media screen and (max-width: 991px) {
@@ -6934,15 +6942,30 @@ html {
     .menu-icon {
       display: block;
     }
-  
-  img.menu-icon {}
-  
-  img.menu-icon {}
-  
-  img.menu-icon {}
-  
-  img.menu-icon {}
-  
+
+  .locate-btn, .confirm-btn,.my-location-btn{
+    background-color: #000000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 10px  auto;
+    font-weight: bold;
+    font-family: ce;
+    font-family: Cairo, sans-serif;
+}
+.booking-form {
+  display: none;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  margin: 20px auto;
+  font-family: Cairo, sans-serif;
+}
     .menu {
       margin-left: 60px;
       position: static;
@@ -6999,7 +7022,13 @@ html {
       height: 200px;
       margin: 60px auto 40px;
     }
-  
+    .paragraph-bigger-2-copy.cc-bigger-white-light-2-copy {
+      opacity: .9;
+      text-align: center;
+      margin-bottom: 30px;
+      font-family: Cairo, sans-serif;
+      font-weight: 400;
+  }
     .intro-content.cc-homepage {
       display: block;
     }
@@ -7543,11 +7572,39 @@ html {
       margin-left: 15px;
       margin-right: 15px;
     }
-
+    .paragraph-bigger-2-copy.cc-bigger-white-light-2-copy {
+      opacity: .9;
+      text-align: center;
+      margin-bottom: 30px;
+      font-family: Cairo, sans-serif;
+      font-weight: 400;
+  }
     .section.cc-cta {
       padding: 15px;
     }
-  
+    .locate-btn, .confirm-btn,.my-location-btn{
+      background-color: #000000;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      display: block;
+      margin: 10px  auto;
+      font-weight: bold;
+      font-family: ce;
+      font-family: Cairo, sans-serif;
+  }
+  .booking-form {
+    display: none;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 20px auto;
+    font-family: Cairo, sans-serif;
+  }
     .section.cc-home-wrap, .section.cc-store-home-wrap {
       margin-left: 15px;
       margin-right: 15px;
@@ -8337,14 +8394,41 @@ html {
       font-size: 36px;
       line-height: 52px;
     }
-
+    .locate-btn, .confirm-btn,.my-location-btn{
+      background-color: #000000;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      display: block;
+      margin: 10px  auto;
+      font-weight: bold;
+      font-family: ce;
+      font-family: Cairo, sans-serif;
+  }
+  .booking-form {
+    display: none;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 20px auto;
+    font-family: Cairo, sans-serif;
+  }
     .paragraph-bigger-2.cc-bigger-white-light-2 {
       font-size: 12px;
       font-weight: 600;
       display: none;
       position: static;
+      opacity: .9;
+        text-align: center;
+        margin-bottom: 30px;
+        font-family: Cairo, sans-serif;
+        font-weight: 400;
     }
-  
+ 
     .button.cc-jumbo-button.cc-jumbo-white {
       margin-top: auto;
       padding-left: 50px;
